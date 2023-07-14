@@ -1,10 +1,10 @@
-<h1>Hi, Hi, I'm Makayla! <br/><a href="https://github.com/m-barkley">Programmer</a>, <a href="https://www.linkedin.com/in/makaylabarkleymb/"> Cybersecurity Student </a>, <a href="https://www.youtube.com/channel/UCj3Y6i7aJKC0s5crhPcd67g">YouTuber</a></h1>
+<h1> Hi, I'm Makayla! <br/><a href="https://github.com/m-barkley">Programmer</a>, <a href="https://www.linkedin.com/in/makaylabarkleymb/"> Cybersecurity Student </a>, <a href="https://www.youtube.com/channel/UCj3Y6i7aJKC0s5crhPcd67g">YouTuber</a></h1>
 
-<h2>C🔐ybersecurity Projects:</h2>
+<h2>🔐Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/m-barkley/LABURL) 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion(SIEM Project)](https://github.com/m-barkley/LABURL)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/m-barkley/LABURL)
   - [Keylogger with Email Capability](https://github.com/m-barkley/Key-Logger-With-Email)
 
  <h2>⌨️ Coding Projects </h2>
@@ -19,24 +19,20 @@
 
 - [Active Directory tutorial](https://www.youtube.com/@makayla.barkley)
 - ["Hello, World!" Brief Python Tutorial](https://www.youtube.com/@makayla.barkley)
-- [Windows EventLog:Failed RDP Demonstration(SIEM Project)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Windows EventLog:Failed RDP Demonstration(SIEM Project)](https://www.youtube.com/@makayla.barkley)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/@makayla.barkley)
+- [Computer Science vs Cybersecurity](https://www.youtube.com/@makayla.barkley)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MakaylaBarkley| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="MakaylaBarkley| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MakaylaBarkley| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+[youtube]: https://www.youtube.com/c/makayla.barkley
+[instagram]: https://www.instagram.com/null/
+[linkedin]: https://linkedin.com/in/makaylabarkleymb
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
