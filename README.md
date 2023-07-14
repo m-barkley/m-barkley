@@ -21,7 +21,7 @@
 - ["Hello, World!" Brief Python Tutorial](https://www.youtube.com/@makayla.barkley)
 - [Windows EventLog:Failed RDP Demonstration(SIEM Project)](https://www.youtube.com/@makayla.barkley)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/@makayla.barkley)
-- [Computer Science vs Cybersecurity](https://www.youtube.com/@makayla.barkley)
+- [What is Cybersecurity?](https://www.youtube.com/@makayla.barkley)
 
 <h2> 🤳 Connect with me:</h2>
 
