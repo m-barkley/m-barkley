@@ -2,14 +2,12 @@
 
 <h2>🔐Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/m-barkley/LABURL) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/m-barkley/Sentinel-Lab)
-  - [Keylogger with Email Capability](https://github.com/m-barkley/Key-Logger-With-Email)
 
  <h2>⌨️ Coding Projects </h2>
-
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/m-barkley/Package-Delivery-Pathfinding-Algorithm)
+ 
+ [Brief Python Password Generator Tutorial](https://youtu.be/o9Wld8gPTFw)
 
 <h2>🏅 Certifications </h2>
 
@@ -17,11 +15,8 @@
 
 <h2>📺YouTube Videos</h2>
 
-- [Active Directory tutorial](https://www.youtube.com/@makayla.barkley)
-- [How to Make a Python Password Generator](https://youtu.be/o9Wld8gPTFw)
-- [Windows EventLog:Failed RDP Demonstration(SIEM Project)](https://www.youtube.com/@makayla.barkley)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/@makayla.barkley)
-- [What is Cybersecurity?](https://www.youtube.com/@makayla.barkley)
+ [Brief Python Password Generator Tutorial](https://youtu.be/o9Wld8gPTFw)
+
 
 <h2> 🤳 Connect with me:</h2>
 
