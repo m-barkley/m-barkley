@@ -18,7 +18,7 @@
 <h2>📺YouTube Videos</h2>
 
 - [Active Directory tutorial](https://www.youtube.com/@makayla.barkley)
-- ["Hello, World!" Brief Python Tutorial](https://www.youtube.com/@makayla.barkley)
+- [How to Make a Python Password Generator](https://youtu.be/o9Wld8gPTFw)
 - [Windows EventLog:Failed RDP Demonstration(SIEM Project)](https://www.youtube.com/@makayla.barkley)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/@makayla.barkley)
 - [What is Cybersecurity?](https://www.youtube.com/@makayla.barkley)
