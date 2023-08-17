@@ -1,4 +1,4 @@
-<h1> Hi, I'm Makayla! <br/><a href="https://github.com/m-barkley">Programmer</a>, <a href="https://www.linkedin.com/in/makaylabarkleymb/"> Cybersecurity Student </a>, <a href="https://www.youtube.com/channel/UCj3Y6i7aJKC0s5crhPcd67g">YouTuber</a></h1>
+<h1> Hi, I'm Makayla! <br/><a href="https://github.com/m-barkley">Programmer</a>, <a href="https://www.linkedin.com/in/makaylabarkleymb/"> Computer Science Student </a>, <a href="https://www.youtube.com/channel/UCj3Y6i7aJKC0s5crhPcd67g">YouTuber</a></h1>
 
 <h2>🔐Cybersecurity Projects:</h2>
 
